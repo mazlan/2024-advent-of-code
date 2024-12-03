@@ -1,4 +1,4 @@
-def sort_lists():
+def distance_between_groups():
     groupA = []
     groupB = []
     total_distance = 0
@@ -17,6 +17,5 @@ def sort_lists():
     return total_distance
 
 
-
 if __name__ == "__main__":
-    sort_lists()    
+    distance_between_groups()    
